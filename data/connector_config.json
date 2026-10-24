@@ -1,6 +1,6 @@
 {
   "operator_name": "Operator",
-  "default_account": "Main_TikTok",
+  "default_account": "Main_YouTube_Shorts",
   "default_fee_pct": 10.0,
   "min_viral_score": 72,
   "daily_clip_target": 5,
@@ -11,5 +11,12 @@
     "https://whop.com",
     "https://clippingalpha.com",
     "https://clippingatlas.xyz/campaigns"
-  ]
+  ],
+  "primary_platform": "YouTube",
+  "secondary_platforms": [
+    "Instagram",
+    "X"
+  ],
+  "tiktok_required": false,
+  "notes": "Operator has no TikTok. Prefer campaigns that allow YouTube Shorts and/or Instagram Reels."
 }
