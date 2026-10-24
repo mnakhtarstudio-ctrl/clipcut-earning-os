@@ -1,0 +1,15 @@
+{
+  "operator_name": "Operator",
+  "default_account": "Main_TikTok",
+  "default_fee_pct": 10.0,
+  "min_viral_score": 72,
+  "daily_clip_target": 5,
+  "timezone": "Asia/Kolkata",
+  "clipcut_url": "https://www.clipcut.pro",
+  "whop_url": "https://whop.com",
+  "intel_urls": [
+    "https://whop.com",
+    "https://clippingalpha.com",
+    "https://clippingatlas.xyz/campaigns"
+  ]
+}

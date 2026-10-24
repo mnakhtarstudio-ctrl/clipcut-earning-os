@@ -50,6 +50,22 @@ Turn long-form content into high-volume short-form clips and get paid $0.80–$3
 - `agents/` — Exact prompts for all Grok automations
 - `01_setup...` (legacy quick guides still useful)
 
+
+
+## System Connector (v1.0) — START HERE FOR OPS
+
+The connector wires Research → Strategy → Production → Finance.
+
+```bash
+python tools/connector.py init
+python tools/connector.py daily
+python tools/connector.py campaign add
+python tools/connector.py log
+python tools/connector.py status
+```
+
+Full SOP: `sops/06_connector.md`
+
 ## Quick Start Path
 1. Read `sops/00_onboarding.md`
 2. Run setup from `sops/01_day1_setup.md`
