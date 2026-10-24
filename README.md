@@ -84,3 +84,14 @@ Full SOP: `sops/06_connector.md`
 - Visual system map
 
 This is now a **repeatable business system**. Follow the SOPs and the agents will keep the intelligence fresh.
+
+
+## Browser Extension (Background)
+
+Chrome/Edge **ClipCut OS Manager** runs in the background:
+
+- Folder: `extension/` (Load unpacked)
+- Zip: `clipcut-os-extension-v1.zip`
+- SOP: `sops/07_browser_extension.md`
+
+Features: service worker alarms, daily notification, badge (clips left), campaign scorer, clip logger, CSV export, Whop helper, context-menu log link.
